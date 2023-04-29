@@ -131,7 +131,7 @@ img{
 
 /*========== LAYOUT ==========*/
 .bd-container{
-  max-width: 1200px;
+  max-width: 960px;
   width: calc(100% - 2rem);
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
@@ -267,7 +267,7 @@ img{
 }
 
 .home__img{
-  width: 600px;
+  width: 300px;
   justify-self: center;
 }
 
@@ -295,8 +295,8 @@ img{
 }
 
 .about__img{
-  width: 10px;
-  border-radius: .9rem;
+  width: 280px;
+  border-radius: .5rem;
   justify-self: center;
 }
 
@@ -344,7 +344,7 @@ img{
 }
 
 .menu__img{
-  width: 1000px;
+  width: 100px;
   align-self: center;
   margin-bottom: var(--mb-2);
 }
@@ -470,7 +470,7 @@ img{
   }
 
   .about__img, .app__img{
-    width: 720px;
+    width: 380px;
     order: -1;
   }
 
@@ -544,7 +544,7 @@ img{
   }
 
   .home__img{
-    width: 1000px;
+    width: 500px;
   }
 
   .about__container,
@@ -556,6 +556,6 @@ img{
 /* For tall screens on mobiles y desktop*/
 @media screen and (min-height: 721px) {
     .home__container {
-        height: 721px;
+        height: 640px;
     }
 }
