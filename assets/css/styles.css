@@ -3,7 +3,7 @@
 
 /*===== VARIABLES CSS =====*/
 :root {
-  --header-height: 3rem;
+  --header-height: 2rem;
 
   /*========== Colors ==========*/
   --first-color: #2f9fa6;
@@ -16,9 +16,9 @@
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
-  --biggest-font-size: 2rem;
-  --h1-font-size: 1.75rem;
-  --h2-font-size: 1.5rem;
+  --biggest-font-size: 4rem;
+  --h1-font-size: 2.25rem;
+  --h2-font-size: 1.75rem;
   --h3-font-size: 1.25rem;
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
@@ -47,9 +47,9 @@
     --h1-font-size: 2.25rem;
     --h2-font-size: 1.75rem;
     --h3-font-size: 1.25rem;
-    --normal-font-size: 1.2rem;
-    --small-font-size: 1rem;
-    --smaller-font-size: .85rem;
+    --normal-font-size: .938rem;
+    --small-font-size: .813rem;
+    --smaller-font-size: .75rem;
   }
 }
 
