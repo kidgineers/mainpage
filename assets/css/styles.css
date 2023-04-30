@@ -267,8 +267,10 @@ img{
 }
 
 .home__img{
-  width: 300px;
+  width: 800px;
   justify-self: center;
+  border-radius: .5rem;
+  box-shadow: 0 4px 8px rgba(3,74,40,.15);
 }
 
 /*========== BUTTONS ==========*/
